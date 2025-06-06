@@ -42,7 +42,7 @@
         "larastan/larastan": "^2.0",
         "laravel/framework": "^9.0|^10.0|^11.0",
         "nikic/php-parser": "^4.0|^5.0",
-        "phpstan/phpstan": "^2.1.17",
+        "larastan/larastan": "^3.0",
         "phpstan/phpstan-deprecation-rules": "^2.0",
         "symfony/finder": "^4.0|^5.0|^6.0|^7.0"
     },
